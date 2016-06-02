@@ -1,0 +1,2 @@
+Added for working git on console
+Checking differences using diff command
